@@ -1,6 +1,6 @@
 {
   "name": "setup-terraform",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Setup Terraform CLI for GitHub Actions",
   "license": "MPL-2.0",
   "publisher": "hashicorp",
@@ -23,7 +23,7 @@
   "dependencies": {
     "@actions/core": "^1.11.1",
     "@actions/exec": "^1.1.1",
-    "@actions/github": "^8.0.1",
+    "@actions/github": "^9.1.1",
     "@actions/io": "^1.1.3",
     "@actions/tool-cache": "^2.0.2",
     "@hashicorp/js-releases": "^1.7.5",
